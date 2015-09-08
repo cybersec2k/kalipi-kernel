@@ -1,6 +1,2 @@
-.~lock.KaliPI-custom-build.odt#
-KaliPI-custom-build.odt
-NOTES_github
-rpi2-3.18.config
-rpi2-KaliPI.sh.diff
-rpi2.sh
+*.odt
+
